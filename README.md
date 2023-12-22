@@ -1,16 +1,17 @@
-# shop
+# Цели работы:
+1. Познакомиться c моделью MVC, ее сущностью и основными фреймворками на ее основе.
+2. Разобраться с сущностями «модель», «контроллер», «представление», их функциональным
+назначением.
+3. Получить навыки разработки веб-приложений с использованием MVC-фреймворков, написания
+модульных тестов к ним и интеграции приложений в конвейер CI / CD;
+4. Получить навыки управления автоматизированным тестированием и разворачиванием
+программного обеспечения, расположенного в системе Git, с помощью инструмента Travis CI.
 
-A new Flutter project.
+# Задание: вариант №8
 
-## Getting Started
+В магазине имеется определенное количество товара каждого
+вида. После покупки 10 экземпляров любого товара (возможно,
+разными покупателями) его цена возрастает на 15%.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Выводы: **в ходе лабораторной работы была освоена работа с моделью MVC и освоили интеграции приложений в конвейер CI / CD**
